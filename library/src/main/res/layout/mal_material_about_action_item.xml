@@ -6,14 +6,14 @@
     android:paddingBottom="@dimen/mal_baseline_half"
     android:orientation="horizontal">
 
-    <ImageView
+    <com.marcoscg.utils.widgets.IconView
         android:id="@+id/mal_item_image"
         android:layout_width="@dimen/mal_action_item_image_width"
         android:layout_height="@dimen/mal_action_action_item_image_height"
         android:layout_gravity="center"
-        android:layout_marginEnd="@dimen/mal_baseline_half"
+        android:layout_marginEnd="@dimen/mal_baseline"
         android:layout_marginLeft="@dimen/mal_baseline"
-        android:layout_marginRight="@dimen/mal_baseline_half"
+        android:layout_marginRight="@dimen/mal_baseline"
         android:layout_marginStart="@dimen/mal_baseline"
         android:adjustViewBounds="false"
         android:contentDescription="@string/mal_content_desc_action_icon"
@@ -44,7 +44,7 @@
             android:id="@+id/mal_action_item_subtext"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:textAppearance="@style/TextAppearance.AppCompat.Caption"
             android:textColor="@color/mal_action_item_subtext"
             android:visibility="gone" />
     </LinearLayout>
