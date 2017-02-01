@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="horizontal"
-    android:paddingBottom="@dimen/mal_baseline_half"
+    android:paddingBottom="@dimen/mal_baseline"
     android:paddingTop="@dimen/mal_baseline_half"
     android:paddingLeft="@dimen/mal_baseline_half"
     android:paddingStart="@dimen/mal_baseline_half"
