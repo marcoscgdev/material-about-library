@@ -219,7 +219,7 @@ License
 [10]: https://github.com/daniel-stoneuk/material-about-library/blob/master/library/src/main/java/com/danielstone/materialaboutlibrary/model/MaterialAboutActionItem.java
 [11]: https://github.com/daniel-stoneuk/material-about-library/blob/master/library/src/main/java/com/danielstone/materialaboutlibrary/model/MaterialAboutList.java
 
-[101]: https://jitpack.io/#marcoscgdev/material-about-library.svg
+[101]: https://jitpack.io/v/marcoscgdev/material-about-library.svg
 [102]: https://jitpack.io/#marcoscgdev/material-about-library
 [103]: https://img.shields.io/github/license/HeinrichReimer/material-intro.svg
 [104]: https://www.apache.org/licenses/LICENSE-2.0.html
