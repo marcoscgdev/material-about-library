@@ -5,7 +5,7 @@
 
 --------
 
-**NOTE**: This is an **edited version** by [MarcosCGdev](https://github.com/marcoscgdev) (made for himself).
+**NOTE**: This is a **modified version** by [MarcosCGdev](https://github.com/marcoscgdev) (made for himself).
 
 --------
 
