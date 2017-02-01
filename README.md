@@ -52,7 +52,7 @@ allprojects {
 ```
 ```gradle
 dependencies {
-    compile 'com.github.marcoscgdev:material-about-library:1.6.0-edited'
+    compile 'com.github.marcoscgdev:material-about-library:1.6.0-edit'
 }
 ```
 
