@@ -114,9 +114,8 @@ public abstract class MaterialAboutActivity extends AppCompatActivity {
 
         @Override
         protected void onPostExecute(String s) {
-
             adapter.swapData(list);
-            recyclerView.animate().alpha(1f).translationY(0f).setDuration(400).setInterpolator(new FastOutSlowInInterpolator()).start();
+            recyclerView.animate().alpha(1f).translationY(0f).setDuration(800).setInterpolator(new FastOutSlowInInterpolator()).setStartDelay(getResources().getInteger(android.R.integer.config_longAnimTime)).start();
             super.onPostExecute(s);
             context = null;
         }
