@@ -55,7 +55,7 @@ public abstract class MaterialAboutActivity extends AppCompatActivity {
         toolbar = (Toolbar) findViewById(R.id.mal_toolbar);
         recyclerView = (RecyclerView) findViewById(R.id.mal_recyclerview);
         recyclerView.setAlpha(0f);
-        recyclerView.setTranslationY(20);
+        recyclerView.setTranslationY(120);
     }
 
     private void initViews() {
